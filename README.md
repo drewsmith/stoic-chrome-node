@@ -1,6 +1,6 @@
 # stoic-chrome-node
 
-The backed API to retrieve a random Stoicism quote for the stoic-chrome-extension.
+The backed API to retrieve a random Stoicism quote for the [stoic-chrome-extension](https://github.com/drewsmith/stoic-chrome-extension).
 
 ## Response
 #### Content-Type

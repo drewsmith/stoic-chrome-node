@@ -1,0 +1,29 @@
+{
+  "name": "stoic-chrome-node",
+  "version": "1.0.0",
+  "description": "Backend for stoic-chrome-extension",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/drewsmith/stoic-chrome-node.git"
+  },
+  "keywords": [
+    "Stoic",
+    "Chrome",
+    "Node",
+    "Extension"
+  ],
+  "author": "Drew Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drewsmith/stoic-chrome-node/issues"
+  },
+  "homepage": "https://github.com/drewsmith/stoic-chrome-node#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.49.0",
+    "express": "^4.15.2"
+  }
+}

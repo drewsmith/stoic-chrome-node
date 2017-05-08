@@ -1,0 +1,9 @@
+service: stoic-chrome
+
+provider:
+  name: aws
+  runtime: nodejs6.10
+
+functions:
+  getPassage:
+    handler: App.getPassage
